@@ -1,7 +1,7 @@
 
 
 # Heterogeneous Knowledge for Augmented Modular Reinforcement Learning
-This repository contains the code for the paper "Heterogeneous Knowledge for Augmented Modular Reinforcement Learning".
+This repository contains the code for the paper [Heterogeneous Knowledge for Augmented Modular Reinforcement Learning](https://arxiv.org/abs/2306.01158).
 
 <p align="center">
     <img width="600" src="README-rsrc/amrl.png">
@@ -66,6 +66,19 @@ in `models`
 - utilitarian classes and functions used by the scripts \
 in `utils`
 
+## Citation
+If you find this repo useful please consider citing:
+```
+@misc{wolf2024heterogeneousknowledgeaugmentedmodular,
+      title={Heterogeneous Knowledge for Augmented Modular Reinforcement Learning}, 
+      author={Lorenz Wolf and Mirco Musolesi},
+      year={2024},
+      eprint={2306.01158},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2306.01158}, 
+}
+```
 
 ## Acknowledgements
 This repository builds on the following two repositories:
