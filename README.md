@@ -69,14 +69,15 @@ in `utils`
 ## Citation
 If you find this repo useful please consider citing:
 ```
-@misc{wolf2024heterogeneousknowledgeaugmentedmodular,
-      title={Heterogeneous Knowledge for Augmented Modular Reinforcement Learning}, 
-      author={Lorenz Wolf and Mirco Musolesi},
-      year={2024},
-      eprint={2306.01158},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2306.01158}, 
+@article{
+    wolf2025heterogeneous,
+    title={Heterogeneous Knowledge for Augmented Modular Reinforcement Learning},
+    author={Lorenz Wolf and Mirco Musolesi},
+    journal={Transactions on Machine Learning Research},
+    issn={2835-8856},
+    year={2025},
+    url={https://openreview.net/forum?id=eme87YbiND},
+    note={}
 }
 ```
 
